@@ -1,0 +1,4 @@
+#Mon Feb 10 03:09:40 BRST 2020
+base.0=D\:\\projects\\Curso Flutter\\converter_binario\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
